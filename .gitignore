@@ -1,0 +1,105 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C extensions
+*.egg-info/
+dist/
+build/
+eggs/
+
+# PyInstaller
+#  Usually created by: pip install pyinstaller
+*.spec
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit specific
+.streamlit/
+.cache/
+local/
+logs/
+.rerun/
+st-click-detector/
+st-diff-highlighter/
+st-fat-finger-helper/
+st-function-invoke/
+st-function-execution/
+st-function-execution-cache/
+st-function-storage/
+st-function-storage-cache/
+st-function-storage-debug/
+st-function-storage-debug-cache/
+st-function-storage-error/
+st-function-storage-error-cache/
+st-function-storage-state/
+st-function-storage-state-cache/
+st-function-storage-state-debug/
+st-function-storage-state-debug-cache/
+st-function-storage-state-error/
+st-function-storage-state-error-cache/
+st-function-storage-state-error-debug/
+st-function-storage-state-error-debug-cache/
+st-function-storage-state-error-debug-cache/
+st-function-storage-state-error-debug-cache/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Data files (sensitive datasets)
+data/*.csv
+data/HR-Employee-Attrition.csv
+data/*.pdf
+data/*.xlsx
+data/*.pkl
+data/*.joblib
+
+# Model files
+models/*.pkl
+models/*.joblib
+models/*.h5
+models/*.sav
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Logs
+*.log
+logs/
+log/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Jupyter Notebook
+.ipynb_checkpoints/
