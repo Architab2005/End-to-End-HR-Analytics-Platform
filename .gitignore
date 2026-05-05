@@ -71,9 +71,10 @@ ENV/
 ehthumbs.db
 Thumbs.db
 
+# Allow ONLY this dataset
+!data/HR-Employee-Attrition.csv
+
 # Data files (sensitive datasets)
-data/*.csv
-data/HR-Employee-Attrition.csv
 data/*.pdf
 data/*.xlsx
 data/*.pkl
