@@ -122,6 +122,7 @@ End-to-End-HR-Analytics-Platform/
 ├── data/
 │   └── HR-Employee-Attrition.csv
 ├── requirements.txt
+├── LICENSE
 └── README.md
 
 ````
@@ -203,5 +204,3 @@ Data Science & Management Enthusiast
 
 ## 📄 License
 This project is licensed under the MIT License.
-
-
