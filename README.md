@@ -202,7 +202,6 @@ Data Science & Management Enthusiast
 ---
 
 ## 📄 License
-
-This project is for academic and portfolio purposes.
+This project is licensed under the MIT License.
 
 
